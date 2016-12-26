@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>size</key>
+		<string>10.8M</string>
+		<key>download</key>
+		<string>189.8万</string>
+		<key>name</key>
+		<string>Cayan Genius</string>
+		<key>icon</key>
+		<string>icon_00</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Payment APP</string>
+		<key>size</key>
+		<string>21.5M</string>
+		<key>icon</key>
+		<string>icon_01</string>
+		<key>download</key>
+		<string>188万</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Payment APP (iPad Demo) </string>
+		<key>size</key>
+		<string>3.6M</string>
+		<key>icon</key>
+		<string>icon_02</string>
+		<key>download</key>
+		<string>170.6万</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>BBPOS BLE (TEST)</string>
+		<key>size</key>
+		<string>109M</string>
+		<key>icon</key>
+		<string>icon_03</string>
+		<key>download</key>
+		<string>150万</string>
+	</dict>
+</array>
+</plist>
